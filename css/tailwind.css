@@ -1,3 +1,12 @@
+@import 'Source-Sans-Pro-regular.css';
+@import 'Source-Sans-Pro-italic.css';
+@import 'Source-Sans-Pro-600.css';
+
 @tailwind base;
+
+body {
+  color: #3e3832;
+}
+
 @tailwind components;
 @tailwind utilities;
