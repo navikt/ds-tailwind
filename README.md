@@ -1,3 +1,5 @@
+Dette repoet er deprecated! Den faktiske implementasjonen av `@navikt/ds-tailwind` finnes her: https://github.com/navikt/Designsystemet/tree/master/%40navikt/core/tailwind.
+
 NAV DS tailwind
 ================
 
